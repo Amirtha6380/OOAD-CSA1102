@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title">
+  <title id="title">Healthy green leaves under soft daylight</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dfe9cd"/><stop offset="1" stop-color="#a1b783"/></linearGradient><linearGradient id="l" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#91ad60"/><stop offset="1" stop-color="#326343"/></linearGradient></defs>
+  <path fill="url(#g)" d="M0 0h900v420H0z"/><circle cx="710" cy="88" r="63" fill="#fff2c6" opacity=".8"/>
+  <path d="M225 440Q420 225 685 68M313 359q-156-8-182-139 152-37 226 92M405 270q-115-94-80-215 139 40 154 173M465 224q50-164 189-176 16 132-148 214M325 341q9-148-111-195-58 113 78 227M510 202q123-96 232-40-45 117-218 112" fill="url(#l)" stroke="#456d45" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M216 442 683 70M320 310 142 218M418 230 333 56M496 217 650 57M370 306 232 159M535 265 728 166" fill="none" stroke="#d7e3ae" stroke-width="4" opacity=".78"/>
+  <g fill="#dbe4a9" opacity=".8"><circle cx="176" cy="240" r="7"/><circle cx="363" cy="99" r="6"/><circle cx="651" cy="95" r="7"/><circle cx="688" cy="189" r="6"/></g>
+</svg>

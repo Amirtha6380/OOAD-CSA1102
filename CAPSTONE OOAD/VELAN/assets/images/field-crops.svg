@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" role="img" aria-labelledby="title">
+  <title id="title">Rows of young crops in a green field</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dce8ca"/><stop offset=".45" stop-color="#a8bf82"/><stop offset="1" stop-color="#466a3c"/></linearGradient>
+    <linearGradient id="earth" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#778c4e"/><stop offset="1" stop-color="#314d33"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1000v720H0z"/>
+  <circle cx="790" cy="140" r="76" fill="#f3e7bd" opacity=".8"/>
+  <path fill="#6f875e" opacity=".55" d="m0 350 140-120 115 90 130-150 145 146 140-110 105 85 115-75 110 112v220H0z"/>
+  <path fill="url(#earth)" d="M0 375q250 40 500 0t500 0v345H0z"/>
+  <g fill="none" stroke="#d4d5a0" stroke-linecap="round" opacity=".7">
+    <path d="M480 720Q460 560 100 380M520 720Q540 555 290 374M560 720Q600 550 490 370M600 720Q660 560 680 380M650 720Q750 570 870 380M420 720Q370 565 0 410" stroke-width="15"/>
+    <path d="M480 720Q460 560 100 380M520 720Q540 555 290 374M560 720Q600 550 490 370M600 720Q660 560 680 380M650 720Q750 570 870 380" stroke="#314d33" stroke-width="5"/>
+  </g>
+  <g fill="#83a353"><path d="M120 405q-38-55-82-30 20 50 82 30"/><path d="M245 428q-25-57-75-45 8 55 75 45"/><path d="M390 443q-24-54-69-41 8 49 69 41"/><path d="M725 440q22-59 70-49-9 54-70 49"/><path d="M865 416q28-55 73-36-14 51-73 36"/></g>
+</svg>

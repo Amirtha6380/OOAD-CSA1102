@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title">
+  <title id="title">Watering a young crop in a field</title>
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c5dfdf"/><stop offset="1" stop-color="#e7edcc"/></linearGradient><linearGradient id="soil" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#83975c"/><stop offset="1" stop-color="#425b3b"/></linearGradient></defs>
+  <path fill="url(#sky)" d="M0 0h900v420H0z"/><circle cx="737" cy="87" r="50" fill="#fff0bc"/>
+  <path fill="#91aa71" d="M0 252q180-40 340 0t300-6 260 8v166H0z"/><path fill="url(#soil)" d="M0 315q180-35 340 0t300-7 260 8v104H0z"/>
+  <g stroke="#526d3e" stroke-width="10" stroke-linecap="round" fill="none"><path d="M180 350q7-82-4-145M350 350q-3-106 5-176M545 350q-1-80 20-142M730 350q4-92 0-168"/></g>
+  <g fill="#709653"><path d="M179 247q-66-38-89-5 41 54 89 21M185 284q64-47 91-14-35 60-91 32M352 208q-59-41-86-8 36 58 86 23M358 258q63-47 94-11-43 62-94 31M560 255q-57-43-87-12 33 60 87 27M558 291q63-44 91-9-39 59-91 27"/></g>
+  <path d="M102 129q55 12 111 50" fill="none" stroke="#709aab" stroke-width="12" stroke-linecap="round"/><g fill="#edf8ee"><path d="m170 176 9 23 9-23-9-23z"/><path d="m216 208 8 22 9-22-9-23z"/><path d="m257 241 8 20 8-20-8-21z"/><path d="m297 273 8 20 8-20-8-21z"/></g>
+</svg>
